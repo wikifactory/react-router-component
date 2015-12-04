@@ -3,6 +3,7 @@
   "version": "0.28.0",
   "description": "Declarative router component for React",
   "main": "index.js",
+  "registry": "npm",
   "dependencies": {
     "object-assign": "^4.0.1",
     "qs": "^5.2.0",
